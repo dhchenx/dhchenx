@@ -29,7 +29,7 @@
 
 #### Bibliometrics
 - [biblio-laws](https://github.com/dhchenx/biblio-laws): Laws of bibliometrics
-- [wos-table](https://github.com/dhchenx/wos-tabfile): Web of Science data ✨ analysis
+- [wos-table](https://github.com/dhchenx/wos-tabfile): Web of Science data  analysis ✨
 
 #### Rapid Application Development
 - [DBFactory](https://github.com/dhchenx/DBFactory)
