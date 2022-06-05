@@ -23,6 +23,7 @@
 - [SimpleHadoopTool](https://github.com/dhchenx/SimpleHadoopTool): Simple Hadoop job submitting tool
 
 #### Machine Learning/Deep Learning
+- [mmkit-features](https://github.com/dhchenx/mmkit-features): Multimodal Feature Extraction Toolkit
 - [DeepFaceEmotion](https://github.com/dhchenx/DeepFaceEmotion): A revised Deepface ✨
 - [speech-feature-kit](https://github.com/dhchenx/speech-feature-kit): Speech feature extraction
 - [correlation-kit](https://github.com/dhchenx/correlation-kit): Pearson's correlation estimation
