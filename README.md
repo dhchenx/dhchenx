@@ -36,3 +36,4 @@
 - [rsfile](https://github.com/dhchenx/rsfile): file operations in Rust
 - [quick-pypi](https://github.com/dhchenx/quick-pypi): quickly deploy PyPI projects ✨
 - [quick-csv](https://github.com/dhchenx/quick-csv): quickly read and write CSV files ✨
+- [quick-crawler](https://github.com/dhchenx/quick-crawler): Quick Crawler
