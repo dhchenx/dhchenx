@@ -1,6 +1,4 @@
-### Hi there 👋
-
-🌱🔭 My leading open-source projects include:
+🌱🔭 My leading open-source projects： 
 
 #### Natural Language Processing
 
@@ -23,8 +21,8 @@
 - [SimpleHadoopTool](https://github.com/dhchenx/SimpleHadoopTool): Simple Hadoop job submitting tool
 
 #### Machine Learning/Deep Learning
-- [mmkit-features](https://github.com/dhchenx/mmkit-features): Multimodal Feature Extraction Toolkit
-- [DeepFaceEmotion](https://github.com/dhchenx/DeepFaceEmotion): A revised Deepface ✨
+- [mmkit-features](https://github.com/dhchenx/mmkit-features): Multimodal Feature Extraction Toolkit ✨
+- [DeepFaceEmotion](https://github.com/dhchenx/DeepFaceEmotion): A revised Deepface
 - [speech-feature-kit](https://github.com/dhchenx/speech-feature-kit): Speech feature extraction
 - [correlation-kit](https://github.com/dhchenx/correlation-kit): Pearson's correlation estimation
 
@@ -33,23 +31,8 @@
 - [wos-table](https://github.com/dhchenx/wos-tabfile): Web of Science data  analysis ✨
 
 #### Rapid Application Development
-- [DBFactory](https://github.com/dhchenx/DBFactory)
-- [SafePI](https://github.com/dhchenx/SafePI)
-- [rsfile](https://github.com/dhchenx/rsfile)
-- [quick-pypi](https://github.com/dhchenx/quick-pypi) ✨
-- [quick-csv](https://github.com/dhchenx/quick-csv) ✨
-
-<!--
-**dhchenx/dhchenx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [DBFactory](https://github.com/dhchenx/DBFactory): MSSQL wrapper
+- [SafePI](https://github.com/dhchenx/SafePI): Protect code theft
+- [rsfile](https://github.com/dhchenx/rsfile): file operations in Rust
+- [quick-pypi](https://github.com/dhchenx/quick-pypi): quickly deploy PyPI projects ✨
+- [quick-csv](https://github.com/dhchenx/quick-csv): quickly read and write CSV files ✨
