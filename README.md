@@ -35,6 +35,8 @@ Donghua Chen The Explorer (dhchenx)
 #### Agent-Based Modeling and Simulation
 - [AB3DMT](https://github.com/dhchenx/AB3DMT): Agent-based 3D modeling toolkit based on NetLogo ✨
 - MedSim3D: 3D modeling and simulation framework for medical education [Developing] ✨
+- [LightLogo](https://github.com/dhchenx/LightLogo): A lightweight Logo-based agent-based simulation toolkit
+
 
 #### Rapid Application Development
 - [DBFactory](https://github.com/dhchenx/DBFactory): MSSQL wrapper
